@@ -1,4 +1,4 @@
-## Code for misinformation papers @ CSCW 2018 & ICWSM 2020.
+## Code for two misinformation papers @ CSCW 2018 & ICWSM 2020.
 
 ### Papers:
 **Linguistic Signals under Misinformation and Fact-Checking: Evidence from User Comments on Social Media**  
